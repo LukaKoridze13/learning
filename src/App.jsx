@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   return (
     <div>
-     lukaadgiaehighaeighahgaeigh
+     New character "Luka"
     </div>
   )
 }
